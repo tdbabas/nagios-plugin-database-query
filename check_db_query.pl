@@ -394,7 +394,7 @@ available at http://search.cpan.org/~dowens/Pod-POM-View-Restructured-0.02/bin/p
 
 =head1 AUTHOR
 
-Tim Barnes E<lt>tdba[AT]bas[DOT]ac[DOT]ukE<gt> - British Antarctic Survey, Natural Environmental Research Council, UK
+Tim Barnes E<lt>tdba[AT]bas.ac.ukE<gt> - British Antarctic Survey, Natural Environmental Research Council, UK
 
 =head1 COPYRIGHT AND LICENSE
 

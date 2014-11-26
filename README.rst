@@ -227,7 +227,7 @@ AUTHOR
 ******
 
 
-Tim Barnes <tdba[AT]bas[DOT]ac[DOT]uk> - British Antarctic Survey, Natural Environmental Research Council, UK
+Tim Barnes <tdba[AT]bas.ac.uk> - British Antarctic Survey, Natural Environmental Research Council, UK
 
 
 *********************
