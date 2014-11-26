@@ -1,0 +1,14 @@
+<xml>
+   <database id='TestDB'>
+   <dbd>mysql</dbd>
+   <values>
+      <value key='host'>localhost</value>
+      <value key='database'>test</value>
+   </values>
+   <username>test</username>
+   <password></password>
+   <queries>
+      <sql id='test'>SELECT COUNT(*) FROM test_data</sql>
+   </queries>
+   </database>
+ </xml>
