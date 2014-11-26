@@ -393,7 +393,7 @@ Tim Barnes E<lt>tdba@bas.ac.ukE<gt> - British Antarctic Survey, Natural Environm
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2014 by Tim Barnes, British Antarctic Survey, Natural Environmental Research Countil, UK
+Copyright (C) 2014 by Tim Barnes, British Antarctic Survey, Natural Environmental Research Council, UK
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
