@@ -389,14 +389,23 @@ in your command definition. For example:
 
 =head1 AUTHOR
 
-Tim Barnes E<lt>tdba@bas.ac.ukE<gt> - British Antarctic Survey, Natural Environmental Research Council
+Tim Barnes E<lt>tdba@bas.ac.ukE<gt> - British Antarctic Survey, Natural Environmental Research Council, UK
 
 =head1 COPYRIGHT AND LICENSE
 
 Copyright (C) 2014 by Tim Barnes, British Antarctic Survey, Natural Environmental Research Countil, UK
 
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself, either Perl version 5.8.6 or,
-at your option, any later version of Perl 5 you may have available.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 =cut
