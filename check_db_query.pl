@@ -392,6 +392,11 @@ in your command definition. For example:
 This documentation is available as POD and reStructuredText, with the conversion from POD to RST being carried out by B<pod2rst>, which is 
 available at http://search.cpan.org/~dowens/Pod-POM-View-Restructured-0.02/bin/pod2rst
 
+=head1 NOTES
+
+So far, this script has been tested with MySQL, Postgres, Oracle and SQLite2. Other database systems may work, but they have not been
+tested as yet.
+
 =head1 AUTHOR
 
 Tim Barnes E<lt>tdba[AT]bas.ac.ukE<gt> - British Antarctic Survey, Natural Environmental Research Council, UK

@@ -222,6 +222,15 @@ This documentation is available as POD and reStructuredText, with the conversion
 available at http://search.cpan.org/~dowens/Pod-POM-View-Restructured-0.02/bin/pod2rst
 
 
+*****
+NOTES
+*****
+
+
+So far, this script has been tested with MySQL, Postgres, Oracle and SQLite2. Other database systems may work, but they have not been
+tested as yet.
+
+
 ******
 AUTHOR
 ******
