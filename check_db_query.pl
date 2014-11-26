@@ -387,6 +387,11 @@ in your command definition. For example:
          command_line    /usr/local/bin/perl $USER1$/check_db_query.pl -d "$ARG1$" -q "$ARG2$" $ARG3$
  }
 
+=head1 ACKNOWLEDGEMENT
+
+This documentation is available as POD and reStructuredText, with the conversion from POD to RST being carried out by B<pod2rst>, which is 
+available at http://search.cpan.org/~dowens/Pod-POM-View-Restructured-0.02/bin/pod2rst
+
 =head1 AUTHOR
 
 Tim Barnes E<lt>tdba@bas.ac.ukE<gt> - British Antarctic Survey, Natural Environmental Research Council, UK
