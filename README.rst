@@ -43,7 +43,7 @@ The following Perl modules are required in order for this script to work:
   * XML::Simple
 
 
-Additionally, you will need any DBD modules required to access your databases need to be installed and setup correctly.
+Additionally, any DBD modules required to access your databases need to be installed and setup correctly.
 
 A connection file also needs to be present. By default, the script will use a file called \ **.db_conn.xml**\ , which it expects to
 find in the same directory as the script. If you want to use a different file, you must specify it with the \ **-C**\  option.
@@ -177,10 +177,10 @@ The list of queries that can be run in this database.
 =====
 
 
-The SQL for the particular query. The query is identified by the \ **id**\  attribute, which is then referred to in the script by using the \ **-q**\  
-option. Note that XML cannot parse less than (<) or greater than (>) signs, so if you need them in your query code, you will either
-have to encode them as &lt; and &gt; respectively or enclose the query code in <![CDATA[ ]]> tags. Placeholder/bind variables should
-be specified with question-marks (?), which will be filled by using the \ **-p**\  option when running the script.
+The SQL for the particular query. The query is identified by the \ **id**\  attribute, which is then referred to in the script by using the 
+\ **-q**\  option. Note that XML cannot parse less than (<) or greater than (>) signs, so if you need them in your query code, you 
+will either have to encode them as &lt; and &gt; respectively or enclose the query code in <![CDATA[ ]]> tags. Placeholder/bind 
+variables should be specified with question-marks (?), which will be filled by using the \ **-p**\  option when running the script.
 
 
 

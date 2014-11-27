@@ -269,7 +269,7 @@ The following Perl modules are required in order for this script to work:
  * Scalar::Util
  * XML::Simple
 
-Additionally, you will need any DBD modules required to access your databases need to be installed and setup correctly.
+Additionally, any DBD modules required to access your databases need to be installed and setup correctly.
 
 A connection file also needs to be present. By default, the script will use a file called B<.db_conn.xml>, which it expects to
 find in the same directory as the script. If you want to use a different file, you must specify it with the B<-C> option.
@@ -365,10 +365,10 @@ The list of queries that can be run in this database.
 
 =head2 E<lt>sqlE<gt>
 
-The SQL for the particular query. The query is identified by the B<id> attribute, which is then referred to in the script by using the B<-q> 
-option. Note that XML cannot parse less than (E<lt>) or greater than (E<gt>) signs, so if you need them in your query code, you will either
-have to encode them as &lt; and &gt; respectively or enclose the query code in E<lt>![CDATA[ ]]E<gt> tags. Placeholder/bind variables should
-be specified with question-marks (?), which will be filled by using the B<-p> option when running the script.
+The SQL for the particular query. The query is identified by the B<id> attribute, which is then referred to in the script by using the 
+B<-q> option. Note that XML cannot parse less than (E<lt>) or greater than (E<gt>) signs, so if you need them in your query code, you 
+will either have to encode them as &lt; and &gt; respectively or enclose the query code in E<lt>![CDATA[ ]]E<gt> tags. Placeholder/bind 
+variables should be specified with question-marks (?), which will be filled by using the B<-p> option when running the script.
 
 =head1 EXAMPLE
 
