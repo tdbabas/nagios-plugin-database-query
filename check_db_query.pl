@@ -365,7 +365,7 @@ The list of queries that can be run in this database.
 
 =head2 E<lt>sqlE<gt>
 
-The SQL for the particular query. The query is identified by the B<id> attribute, which is then referred to in the script by using the B<-q>
+The SQL for the particular query. The query is identified by the B<id> attribute, which is then referred to in the script by using the B<-q> 
 option. Note that XML cannot parse less than (E<lt>) or greater than (E<gt>) signs, so if you need them in your query code, you will either
 have to encode them as &lt; and &gt; respectively or enclose the query code in E<lt>![CDATA[ ]]E<gt> tags. Placeholder/bind variables should
 be specified with question-marks (?), which will be filled by using the B<-p> option when running the script.

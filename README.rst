@@ -177,7 +177,7 @@ The list of queries that can be run in this database.
 =====
 
 
-The SQL for the particular query. The query is identified by the \ **id**\  attribute, which is then referred to in the script by using the \ **-q**\ 
+The SQL for the particular query. The query is identified by the \ **id**\  attribute, which is then referred to in the script by using the \ **-q**\  
 option. Note that XML cannot parse less than (<) or greater than (>) signs, so if you need them in your query code, you will either
 have to encode them as &lt; and &gt; respectively or enclose the query code in <![CDATA[ ]]> tags. Placeholder/bind variables should
 be specified with question-marks (?), which will be filled by using the \ **-p**\  option when running the script.
