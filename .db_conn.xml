@@ -11,4 +11,4 @@
       <sql id='test'>SELECT COUNT(*) FROM test_data</sql>
    </queries>
    </database>
- </xml>
+</xml>
